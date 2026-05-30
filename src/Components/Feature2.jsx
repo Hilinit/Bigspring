@@ -1,5 +1,5 @@
 //rfce
-import photo1 from "../assets/imgi_10_service-slide-2.png";
+import photo1 from "../../public/assets/imgi_10_service-slide-2.png";
 function Feature2() {
   return (
     <div className="bg-[#edf6f5]">

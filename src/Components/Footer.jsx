@@ -1,11 +1,11 @@
 import { MdFacebook } from "react-icons/md";
 import { FaTwitter, FaSkype, FaLinkedin } from "react-icons/fa";
 
-import logo from "../assets/imgi_1_logo.png";
+import logo from "../../public/assets/imgi_1_logo.png";
 function Footer() {
   return (
     <div className="bg-[#edf6f5]  ">
-      <div className="w-[80%] grid grid-cols-2 lg:grid-cols-4 gap-4 py-10 lg:p-20 mx-auto">
+      <div className="w-[80%] grid grid-cols-1 lg:grid-cols-4 gap-4 py-10 lg:p-20 mx-auto">
         <div>
           <h2 className="font-bold text-2xl mb-4">Company</h2>
           <ul className="space-y-2 text-gray-600">
