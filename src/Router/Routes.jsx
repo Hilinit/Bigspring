@@ -18,9 +18,7 @@ function Router() {
                   <Route path='/faq' element={<FAQ />} />
               </Route>
           </Routes>
-      
       </>
   )
 }
-
 export default Router
