@@ -1,3 +1,4 @@
+import Feature6 from "../Components/Feature6";
 function Pricing() {
   return (
     <>
@@ -55,6 +56,7 @@ function Pricing() {
           </div>
         </div>
       </div>
+      <Feature6 />
     </>
   );
 }
